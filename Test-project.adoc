@@ -5,5 +5,9 @@ Source: https://en.wikipedia.org/wiki/Cat[Wikipedia]
 The cat, commonly referred to as the *domestic* cat or *house cat*, is the only domesticated species in the family _Felidae_.
 
 == Characteristics
-=== Size
+image::https://www.google.com/url?sa=i&url=https%3A%2F%2Fcats.com%2Fcat-anatomy-guide&psig=AOvVaw2rL35TnL42LoL-aA60Qhxn&ust=1700848485960000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDM6MHY2oIDFQAAAAAdAAAAABAZ
+=== *Size*
 Cats average about 46 cm (18 in) in head-to-body length and 23–25 cm (9–10 in) in height, with about 30 cm (12 in) long tails.
+
+=== *Senses*
+==== Vision 
