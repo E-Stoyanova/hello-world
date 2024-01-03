@@ -3,3 +3,4 @@ toothbrush.
 
 Note that this toothbrush is not safe to use for children, 
 adults, or pets.
+This toothbrush has some more great qualities.
